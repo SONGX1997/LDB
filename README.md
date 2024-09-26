@@ -1,4 +1,4 @@
-[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29427)
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29427)]
 
 This repository contains the PyTorch implementation for the AAAI 2024 Paper ["Non-exemplar Domain Incremental Object Detection via Learning Domain Bias"](https://ojs.aaai.org/index.php/AAAI/article/view/29427). If you have any questions on this repository or the related paper, feel free to create an issue or send me an email.
 
